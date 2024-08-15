@@ -38,19 +38,21 @@ Hello, my name is Seunggi Hong. I am currently in my last semester of college, a
 
 ## 3. PROJECT
 
-| Project name         | Description                      | URL                                                            | Date |
-| -------------------- | -------------------------------- | -------------------------------------------------------------- | ---- |
-| KNUT-INFO Service    | Dev 'University convenience' app | [Github](https://github.com/seunggihong/KNUT.INFO-App-service) | 2020 |
-| Weather App          |                                  | [Github](https://github.com/seunggihong/weather-app)           | 2022 |
-| Merge image          |                                  | [Github](https://github.com/seunggihong/merge-NFT)             | 2022 |
-| Android App          |                                  | [Github](https://github.com/seunggihong/android-app)           | 2023 |
-| Kafka docker         |                                  | [Github](https://github.com/seunggihong/kafka-docker)          | 2023 |
-| Hadoop install Guide |                                  | [Github](https://github.com/seunggihong/hadoop-install-guide)  | 2024 |
-| K8S Cluster          |                                  | [Github](https://github.com/seunggihong/k8s-cluster-setting)   | 2024 |
+| Project name         | Description                                 | URL                                                            | Date |
+| -------------------- | ------------------------------------------- | -------------------------------------------------------------- | ---- |
+| KNUT-INFO Service    | Dev 'University convenience' app            | [Github](https://github.com/seunggihong/KNUT.INFO-App-service) | 2020 |
+| Weather App          | Weather app using Dart                      | [Github](https://github.com/seunggihong/weather-app)           | 2022 |
+| Merge image          | Image compositing software                  | [Github](https://github.com/seunggihong/merge-NFT)             | 2022 |
+| Android App          | College grade calculation app using SQLlite | [Github](https://github.com/seunggihong/android-app)           | 2023 |
+| Kafka docker         | Kafka on Docker                             | [Github](https://github.com/seunggihong/kafka-docker)          | 2023 |
+| Hadoop install Guide | Hadoop HDFS cluster setting guide           | [Github](https://github.com/seunggihong/hadoop-install-guide)  | 2024 |
+| K8S Cluster          | Kubernetes Cluster setting guide            | [Github](https://github.com/seunggihong/k8s-cluster-setting)   | 2024 |
 
 <a name='paper'></a>
 
 ## 4. PAPER
+
+- [Kubernetes Based Integration Method for Spark, Alluxio, HDFS with Ensuring Locality](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11797215)
 
 <a name='contact'></a>
 
